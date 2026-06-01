@@ -1,13 +1,13 @@
 # Security Policy
 
-NEST Simulator is research-oriented software and as such is expected to
-run mainly in well-protected environments. In case it is found that this
-software can be used to violate security mechanisms, developers will try to
-provide patches that mitigate the risk of this misuse.
+NEST Simulator and the NEST extension module are research-oriented software
+and as such are expected to run mainly in well-protected environments. In case
+it is found that this software can be used to violate security mechanisms,
+developers will try to provide patches that mitigate the risk of this misuse.
 
-The current policy is explained in SECURITY.md in the NEST Simulator
+The current policy is explained in SECURITY.md in the NEST extension module
 main branch. The policy can also be found at
-<https://github.com/nest/nest-simulator/security/policy>.
+<https://github.com/nest/nest-extension-module/security/policy>.
 
 ## Supported Versions
 
@@ -22,12 +22,12 @@ updates:
 ## Reporting a Vulnerability
 
 For reporting a vulnerability please create a security advisory on the
-nest/nestml [Security
-Advisories](https://github.com/nest/nest-simulator/security/advisories)
+nest/nest-extension-module [Security
+Advisories](https://github.com/nest/nest-extension-module/security/advisories)
 page. You need a GitHub account to create an advisory.
 
 Developers will then contact the reporter in a timely manner to assess
 severity and further handling via [Security
-Advisories](https://github.com/nest/nestml/security/advisories)
-or as normal [Issue](https://github.com/nest/nest-simulator/issues) in
+Advisories](https://github.com/nest/nest-extension-module/security/advisories)
+or as normal [Issue](https://github.com/nest/nest-extension-module/issues) in
 non-critical cases.
